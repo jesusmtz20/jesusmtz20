@@ -20,7 +20,7 @@ I'm Jesus Martínez Trejo a  Computer Engineering student at UNAM.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,vscode,html,r,latex,md" width="700"/>
+    <img src="https://skillicons.dev/icons?i=matlab,vscode,html,r,latex" width="700"/>
   </a>
 </p>
 
