@@ -4,7 +4,8 @@ I'm Jesus Martínez Trejo a  Computer Engineering student at UNAM.
 - :telescope: I like to learn about computing, artificial intelligence, finance, astronomy and mathematics.
 - :musical_note: Enjoyer of various music genres and movies.
 - 💬 Ask me about what you want.
-  
+
+## <p align="center"></p>
 <p align="center"> </p>
 <p align = "left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
