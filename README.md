@@ -1,12 +1,13 @@
 ### Hi there 👋
-I'm Jesus Martínez Trejo a  Computer Engineering student at UNAM.
-- :seedling: I’m looking to collaborate on programming, science data and artificial intelligence projects.
-- :telescope: I like to learn about computing, artificial intelligence, finance, astronomy and mathematics.
-- :musical_note: Enjoyer of various music genres and movies.
-- 💬 Ask me about what you want.
+I'm **Jesus Martínez Trejo** a  Computer Engineering student at UNAM.
+- 🌱 Currently learning and improving my skills in software engineering, data science, databases and artificial intelligence.
+- 👨‍💻 Interested in participating in projects related to backend development, data processing, machine learning and emerging computing technologies.  
+- 🔭 I enjoy exploring topics such as computing, AI, finance, astronomy, and mathematics.   
+- 🎵 Enjoyer of diverse music genres and movies.
+- 💬 Feel free to ask me anything.
 
 
-## <p align="center"> 👨‍💻 Technologies and tools</p>
+## 👨‍💻 Technologies and tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,python,java,github" width="700"/>
@@ -18,4 +19,5 @@ I'm Jesus Martínez Trejo a  Computer Engineering student at UNAM.
   </a>
 </p>
 
-### 📫 How to reach me: jesusmtz2320@gmail.com
+### 📫 How to reach me
+**jesusmtz2320@gmail.com**
