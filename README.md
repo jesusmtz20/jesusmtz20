@@ -5,13 +5,6 @@ I'm Jesus Martínez Trejo a  Computer Engineering student at UNAM.
 - :musical_note: Enjoyer of various music genres and movies.
 - 💬 Ask me about what you want.
 
-## <p align="center"></p>
-<p align="center"> </p>
-<p align = "left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusmtz20&show_icons=true&theme=react&rank_icon=github"  width="60%" height="60%"  />
-  </a>
-</p> 
 
 ## <p align="center"> 👨‍💻 Technologies and tools</p>
 <p align="center">
